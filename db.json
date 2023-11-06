@@ -1,0 +1,21 @@
+{
+    "cards":[
+        {"id" : 1 , "title": "Desarrolador Web Full Stack", "content": "Desarrolo de problematicas consumiendo todo el stack Web. Tengo proyectos realizados en React y React Native utilizando frameworks como Formik, Yup, APIs mediante .NET Core."},
+        {"id" : 2 , "title": "Desarrolador 2", "content": "Desarrolo de problematicas consumiendo todo el stack Web. Tengo proyectos realizados en React y React Native utilizando frameworks como Formik, Yup, APIs mediante .NET Core."},
+        {"id" : 3 , "title": "Desarrolador 3", "content": "Desarrolo qw IHJSAFOJASDIOPJFIOPAJSPO,MPSMN ASOPJFPAS FASIOPNFA SFPDIODASND SAoidjas fop."}
+    ],
+    "personalinfo":{
+        "name": "Dante",
+        "surname": "Insaurralde Viola",
+        "age": 17,
+        "email": "danteinsauviola@gmail.com",
+        "linkein":"https://www.linkedin.com/in/dante-insaurralde-viola-944393261/",
+        "github":"https://github.com/dantolin45",
+        "description": "Soy un estudiante en Informatica de la escuela ORT almagro. Por otro lado soy Frontend developer y me especializo en Eccomerce y BackOffice. Proximamente estudiando Ingeneria en Sistemas en la UTN"
+    },
+    "proyects":[
+        {"idProyect" : 1, "title":"Argentinos Junitos Eccommerce", "descriptionProyect":"Argentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos Eccommerce"},
+        {"idProyect" : 2, "title":"Argentinos Junitos BackOffice", "descriptionProyect":"Argentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos Eccommerce"},
+        {"idProyect" : 3, "title":"Made by nova", "descriptionProyect":"Argentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos EccommerceArgentinos Junitos Eccommerce"}
+    ]
+}
